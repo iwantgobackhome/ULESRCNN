@@ -1,0 +1,6 @@
+dataset/
+x2/checkpoint
+x3/checkpoint
+x4/checkpoint
+*__pycache__
+x4/samples_single_model_urban_x4
